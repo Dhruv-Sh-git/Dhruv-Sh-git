@@ -2,17 +2,17 @@
   Hi 👋, I'm Dhruv  
   <img align="left" height="30" src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"  /> 
 </h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Problem Solver and Developer from India</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  height="180">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-sh-git" /> </p>
 
 - 🎓 Pursuing B.Tech in ECE at **BIT, Mesra (Ranchi, India).**
 
-- 🌱 I’m currently learning **Backend Web Development, DevOps and ML**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me: **dhruvshaswat25@gmail.com**
 
-- ⚡ Fun fact: **my life = code + learn + football + gaming + family**
+- ⚡ Fun fact: **git commit -m "I love football"**
 
 
 <h3 align="left">Connect with me:</h3>
