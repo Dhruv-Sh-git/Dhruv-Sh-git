@@ -8,11 +8,9 @@
 
 - 🎓 Pursuing B.Tech in ECE at **BIT, Mesra (Ranchi, India).**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **System Design and aws**
 
 - 📫 How to reach me: **dhruvshaswat25@gmail.com**
-
-- ⚡ Fun fact: **git commit -m "I love football"**
 
 
 <h3 align="left">Connect with me:</h3>
