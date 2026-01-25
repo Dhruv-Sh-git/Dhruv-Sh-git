@@ -61,7 +61,7 @@
         <img 
   src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=Dhruv-Sh-git&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866&langs_count=11&hide=kvlang,makefile&size_weight=0.5&count_weight=0.5"
   width="600"
-  height="400"
+  height="600"
   alt="Top Languages"
 />
       </div>
