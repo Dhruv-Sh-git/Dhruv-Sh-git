@@ -40,10 +40,15 @@
         alt="Tyler Durden"
         style="border-radius: 8px;"
       /><br><br>
-      <blockquote style="margin: 0; font-style: italic; color: #555; font-size: 14px; line-height: 1.4;">
-        "You are not your code, not your commits, not your failures. <br>
-        Work quietly. Improve daily. Let the results speak."<br>
-      </blockquote>
+      <blockquote style="margin: 0; font-style: italic; color: FFFFFF; font-size: 14px; line-height: 1.4;">
+  "You are not your code.<br>
+  You are not your commits.<br>
+  You are not the frameworks you flex.<br>
+  Code is just syntax.<br>
+  Understanding systems is power.<br>
+  Work in silence. Think in depth.<br>
+  Let outcomes talk."
+</blockquote>
     </td>
     <!-- Right Column: Languages Stats - Centered -->
     <td width="33%" align="center" valign="middle" style="padding: 20px;">
