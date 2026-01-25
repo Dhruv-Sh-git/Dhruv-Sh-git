@@ -12,7 +12,7 @@
   <tr>
     <!-- Left Column: Profile Info + Connect -->
     <td width="33%" align="left" valign="top" style="padding: 0 20px;">
-      <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&label=Profile%20views&color=F80D00&style=flat" alt="Profile Views" width="160" /><br><br>
+      <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" /><br><br>
       <ul style="list-style: none; padding: 0; margin: 0 0 15px 0;">
         <li style="margin-bottom: 8px;"> <b>B.Tech in ECE</b>, BIT Mesra</li>
         <li style="margin-bottom: 8px;"> Learning <b>System Design & AWS</b></li>
