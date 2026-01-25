@@ -11,11 +11,15 @@
 <table align="center" width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <!-- Left Column: Profile Info + Connect -->
-    <td width="33%" align="left" valign="top" style="padding: 0 20px;">
+    <td width="33%" align="left" valign="top" style="padding: 100px ;">
+      <div style="margin-top: 20px;">
+        <br>
       <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" /><br><br>
       <ul style="list-style: none; padding: 0; margin: 0 0 15px 0;">
         <li style="margin-bottom: 8px;"> <b>B.Tech in ECE</b>, BIT Mesra</li>
+        <br>
         <li style="margin-bottom: 8px;"> Learning <b>System Design & AWS</b></li>
+        <br>
         <li style="margin-bottom: 12px;"> <b>dhruvshaswat25@gmail.com</b></li>
       </ul>
       <b>Connect:</b><br>
@@ -31,6 +35,7 @@
       <a href="https://instagram.com/shashwat_dhruv_" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" />
       </a>
+      </div>
     </td>
     <!-- Center Column: Tyler Durden Philosophy -->
     <td width="33%" align="center" valign="top" style="padding: 0 20px;">
