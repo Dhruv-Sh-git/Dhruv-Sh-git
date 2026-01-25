@@ -14,9 +14,9 @@
     <td width="33%" align="left" valign="top" style="padding: 0 20px;">
       <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&label=Profile%20views&color=F80D00&style=flat" alt="Profile Views" width="160" /><br><br>
       <ul style="list-style: none; padding: 0; margin: 0 0 15px 0;">
-        <li style="margin-bottom: 8px;">🎓 <b>B.Tech in ECE</b>, BIT Mesra</li>
-        <li style="margin-bottom: 8px;">🌱 Learning <b>System Design & AWS</b></li>
-        <li style="margin-bottom: 12px;">📫 <b>dhruvshaswat25@gmail.com</b></li>
+        <li style="margin-bottom: 8px;"> <b>B.Tech in ECE</b>, BIT Mesra</li>
+        <li style="margin-bottom: 8px;"> Learning <b>System Design & AWS</b></li>
+        <li style="margin-bottom: 12px;"> <b>dhruvshaswat25@gmail.com</b></li>
       </ul>
       <b>Connect:</b><br>
       <a href="https://linkedin.com/in/dhruv shashwat" target="_blank">
@@ -49,7 +49,7 @@
     <td width="33%" align="center" valign="middle" style="padding: 20px;">
       <div style="display: flex; justify-content: center; align-items: center; height: 140px;">
         <img 
-  src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=Dhruv-Sh-git&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866&langs_count=8&hide=kvlang,makefile&size_weight=0.5&count_weight=0.5"
+  src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=Dhruv-Sh-git&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866&langs_count=11&hide=kvlang,makefile&size_weight=0.5&count_weight=0.5"
   width="600"
   height="400"
   alt="Top Languages"
