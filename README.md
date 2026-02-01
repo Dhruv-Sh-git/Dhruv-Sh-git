@@ -1,12 +1,18 @@
+
 <h1 align="center">
-  Hi 👋, I'm Dhruv!
-  <img align="right" height="30" src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" />
+  Hi 
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
+    style="height:1em; vertical-align:middle;"
+  />, I'm Dhruv!
+  <img align="right" height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
   <img align="left" height="30" style="transform: scaleX(-1); display: inline-block;" 
-       src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" />
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFwZzQ1NzMyemQ0dTdsYzhtcjhpZjZ4ZTk2ZHFvaHpiZ3F2MngybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/31vamYdZV5ISQ/giphy.gif" />
 </h1>
 
 <h3 align="center">A Calm Problem Solver & Developer from India 🇮🇳</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width=100% />
 <!-- Single Row Three-Column Layout -->
 <table align="center" width="100%" style="border: none; border-collapse: collapse;">
   <tr>
@@ -52,11 +58,10 @@
     <!-- Center Column: Tyler Durden Philosophy -->
     <td width="33%" align="center" valign="top" style="padding: 0 20px;">
       <img 
-        width="110" height="110"
-        src="https://github.com/user-attachments/assets/8d7d5ba9-1d21-4e99-a1b2-1d7f3d6c5cd0"
+        width="110" height="110"      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU1cXN0cW5oaW9odTBiNTVzY3RvaG93MmVrZmRqamcyaTh5aXR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cWqyG3X3Fxpeab7CIz/giphy.gif"
         alt="Tyler Durden"
         style="border-radius: 8px;"
-      /><br><br>
+      /><br>
       <blockquote style="margin: 0; font-style: italic; color: FFFFFF; font-size: 14px; line-height: 1.4;">
   "You are not your code.<br>
   You are not your commits.<br>
@@ -80,3 +85,5 @@
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+  width=100% />
