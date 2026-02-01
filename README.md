@@ -14,12 +14,24 @@
     <td width="33%" align="left" valign="top" style="padding: 100px ;">
       <div style="margin-top: 20px;">
         <br>
-      <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" /><br><br>
+      <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" />
+         <a href="https://codeforces.com/profile/Dr3w">
+    <img 
+      src="https://img.shields.io/badge/Codeforces-Specialist%20(1448)-03A89E?style=flat-square&logo=codeforces&logoColor=blue"
+      alt="Codeforces Specialist"
+    />
+  </a>
+  <a href="https://leetcode.com/u/dhruv-bit/">
+    <img 
+      src="https://img.shields.io/badge/LeetCode-Knight%20(1848)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow"
+      alt="LeetCode Knight"
+    />
+  </a>
+        <br>
+        <br>
       <ul style="list-style: none; padding: 0; margin: 0 0 15px 0;">
         <li style="margin-bottom: 8px;"> <b>B.Tech in ECE</b>, BIT Mesra</li>
-        <br>
-        <li style="margin-bottom: 8px;"> Learning <b>System Design & AWS</b></li>
-        <br>
+        <li style="margin-bottom: 8px;"> Learning <b>System Design</b></li>
         <li style="margin-bottom: 12px;"> <b>dhruvshaswat25@gmail.com</b></li>
       </ul>
       <b>Connect:</b><br>
