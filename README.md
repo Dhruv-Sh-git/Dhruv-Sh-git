@@ -9,7 +9,6 @@
   <img align="left" height="30" style="transform: scaleX(-1); display: inline-block;" 
        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFwZzQ1NzMyemQ0dTdsYzhtcjhpZjZ4ZTk2ZHFvaHpiZ3F2MngybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/31vamYdZV5ISQ/giphy.gif" />
 </h1>
-
 <h3 align="center">A Calm Problem Solver & Developer from India 🇮🇳</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
   width=100% />
@@ -17,7 +16,7 @@
 <table align="center" width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <!-- Left Column: Profile Info + Connect -->
-    <td width="33%" align="left" valign="top" style="padding: 100px ;">
+    <td width="33%" align="left" valign="top" style="padding: 20px ;">
       <div style="margin-top: 20px;">
         <br>
       <img src="https://komarev.com/ghpvc/?username=dhruv-sh-git&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" />
@@ -74,14 +73,14 @@
     </td>
     <!-- Right Column: Languages Stats - Centered -->
     <td width="33%" align="center" valign="middle" style="padding: 20px;">
-      <div style="display: flex; justify-content: center; align-items: center; height: 140px;">
+      <!-- <div style="display: flex; justify-content: center; align-items: center; height: 140px;"> -->
         <img 
   src="https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=Dhruv-Sh-git&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866&langs_count=10&hide=Nix,Batchfile,makefile,Kvlang&size_weight=0.5&count_weight=0.5&custom_title=Languages+Behind+the+Logic"
-  width="600"
-  height="600"
+  width="100%"
+  style="max-width: 280px; height: auto;"
   alt="Top Languages"
 />
-      </div>
+      <!-- </div> -->
     </td>
   </tr>
 </table>
