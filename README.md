@@ -28,7 +28,7 @@
   </a>
   <a href="https://leetcode.com/u/dhruv-bit/">
     <img 
-      src="https://img.shields.io/badge/LeetCode-Knight%20(1848)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow"
+      src="https://img.shields.io/badge/LeetCode-Knight%20(1867)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow"
       alt="LeetCode Knight"
     />
   </a>
