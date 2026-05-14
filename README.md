@@ -26,6 +26,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFwZzQ1NzMyemQ0dTdsYzhtc
     <a href="https://leetcode.com/u/dhruv-bit/">
       <img src="https://img.shields.io/badge/LeetCode-Knight%20(1867)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow" />
     </a>
+    <br>
+    <br>
     <!-- YAML Block -->
     <pre style="background:#0d1117; padding:12px; border-radius:8px; font-size:13px; line-height:1.5; overflow-x:auto;">
 name: "Dhruv Shaswat"
@@ -62,16 +64,19 @@ reach_me: dhruvshaswat25@gmail.com
   Work in silence. Think in depth.<br>
   Let outcomes talk."
 </blockquote>
-      <b>Connect:</b><br>
+      <b>Let's Connect:</b><br>
       <a href="https://linkedin.com/in/dhruv shashwat" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" />
       </a>
+      &nbsp;&nbsp;
       <a href="https://codeforces.com/profile/dr3w" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="28" />
       </a>
+      &nbsp;&nbsp;
       <a href="https://www.leetcode.com/dhruv-bit" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="28" />
       </a>
+      &nbsp;&nbsp;
       <a href="https://instagram.com/shashwat_dhruv_" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" />
       </a>
@@ -86,7 +91,6 @@ reach_me: dhruvshaswat25@gmail.com
     style="max-width: 280px; height: auto; margin-bottom: 15px;"
     alt="Top Languages"
   />
-
   <!-- LeetCode Card -->
   <img 
     src="https://leetcard.jacoblin.cool/dhruv-bit?theme=dark&font=Montserrat&ext=heatmap"
