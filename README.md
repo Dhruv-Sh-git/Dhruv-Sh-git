@@ -24,7 +24,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFwZzQ1NzMyemQ0dTdsYzhtc
       <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1448)-03A89E?style=flat-square&logo=codeforces&logoColor=blue" />
     </a>
     <a href="https://leetcode.com/u/dhruv-bit/">
-      <img src="https://img.shields.io/badge/LeetCode-Knight%20(1867)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow" />
+      <img src="https://img.shields.io/badge/LeetCode-Knight%20(1913)-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow" />
     </a>
     <br>
     <br>
